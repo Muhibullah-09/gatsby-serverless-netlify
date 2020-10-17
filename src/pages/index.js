@@ -13,7 +13,7 @@ export default function Home() {
   }, [])
   return (
     <div>
-      <h1>Hello world Gatsby and Netlify</h1>
+      <h1>Hello world Gatsby and Netlify Blah Blah!!</h1>
       <div><h1>{data.message}</h1></div>
     </div>
   )
